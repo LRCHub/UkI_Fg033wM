@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Never ending symphony",
+  "base_artist": "内田真礼",
+  "createdAt": "2026-01-14T02:42:39.376708Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Never Ending Symphony",
+      "artist": "Maaya Uchida",
+      "has_synced": true,
+      "path": "select/01_Never_Ending_Symphony_Maaya_Uchida.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Never ending symphony",
+      "artist": "内田真礼",
+      "has_synced": true,
+      "path": "select/02_Never_ending_symphony_内田真礼.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Never ending symphony",
+      "artist": "内田真礼",
+      "has_synced": false,
+      "path": "select/pl_01_Never_ending_symphony_内田真礼.txt"
+    }
+  ]
+}
